@@ -10,7 +10,6 @@ import android.net.Uri;
 import android.support.v4.app.NotificationCompat;
 
 import com.google.android.gms.gcm.GoogleCloudMessaging;
-import com.intuitive.notifreceiver.R;
 
 public class GCMReceiver extends android.content.BroadcastReceiver
 {

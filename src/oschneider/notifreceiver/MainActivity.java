@@ -13,7 +13,6 @@ import android.widget.ProgressBar;
 import android.widget.TextView;
 
 import com.google.android.gms.gcm.GoogleCloudMessaging;
-import com.intuitive.notifreceiver.R;
 
 public class MainActivity extends Activity
 {
